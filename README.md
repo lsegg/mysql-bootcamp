@@ -10,3 +10,9 @@ Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beg
 
 - A a visual database design tool such as [MySQL Workbench](https://www.mysql.com/products/workbench/) or
 - A SQL CLI such as The MySQL [Command-Line Client](https://dev.mysql.com/doc/refman/8.0/en/mysql.html)
+
+## License 📄
+
+This project is under (MIT License) - See the file [LICENSE](LICENSE) for more details
+
+---
