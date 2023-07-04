@@ -2,9 +2,11 @@
 
 Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert by [Colt Steele](https://www.linkedin.com/in/coltsteele/).
 
-## Exercises 📓
+## Exercise topics 📓
 
-- crud-challenge: basic CRUD operations
+- basic CRUD operations
+- string functions
+- refining selections
 
 ## Tools 🛠️
 
