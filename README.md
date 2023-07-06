@@ -4,6 +4,7 @@ Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beg
 
 ## Subjects 📓
 
+- data types
 - basic CRUD operations
 - string functions
 - refining selections
