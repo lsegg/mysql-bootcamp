@@ -9,6 +9,7 @@ Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beg
 - string functions
 - refining selections
 - aggregate functions
+- comparison and logical operators
 
 ## Tools 🛠️
 
