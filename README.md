@@ -10,6 +10,7 @@ Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beg
 - refining selections
 - aggregate functions
 - comparison and logical operators
+- constraints and ALTER TABLE
 
 ## Tools 🛠️
 
