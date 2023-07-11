@@ -11,6 +11,7 @@ Code accompanying the Udemy course, The Ultimate MySQL Bootcamp: Go from SQL Beg
 - aggregate functions
 - comparison and logical operators
 - constraints and ALTER TABLE
+- relations and joins
 
 ## Tools 🛠️
 
